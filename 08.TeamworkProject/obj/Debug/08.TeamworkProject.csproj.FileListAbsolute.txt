@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\08.TeamworkProject\bin\Debug\08.TeamworkProject.exe.config
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\08.TeamworkProject\bin\Debug\08.TeamworkProject.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\08.TeamworkProject\bin\Debug\08.TeamworkProject.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\08.TeamworkProject\obj\Debug\08.TeamworkProject.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\08.TeamworkProject\obj\Debug\08.TeamworkProject.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\08.TeamworkProject\obj\Debug\08.TeamworkProject.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\08.TeamworkProject\obj\Debug\08.TeamworkProject.pdb

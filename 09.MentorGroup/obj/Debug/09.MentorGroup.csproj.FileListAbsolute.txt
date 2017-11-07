@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\09.MentorGroup\bin\Debug\09.MentorGroup.exe.config
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\09.MentorGroup\bin\Debug\09.MentorGroup.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\09.MentorGroup\bin\Debug\09.MentorGroup.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\09.MentorGroup\obj\Debug\09.MentorGroup.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\09.MentorGroup\obj\Debug\09.MentorGroup.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\09.MentorGroup\obj\Debug\09.MentorGroup.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\09.MentorGroup\obj\Debug\09.MentorGroup.pdb

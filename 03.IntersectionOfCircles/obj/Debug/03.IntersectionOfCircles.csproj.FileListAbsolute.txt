@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\03.IntersectionOfCircles\bin\Debug\03.IntersectionOfCircles.exe.config
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\03.IntersectionOfCircles\bin\Debug\03.IntersectionOfCircles.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\03.IntersectionOfCircles\bin\Debug\03.IntersectionOfCircles.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\03.IntersectionOfCircles\obj\Debug\03.IntersectionOfCircles.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\03.IntersectionOfCircles\obj\Debug\03.IntersectionOfCircles.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\03.IntersectionOfCircles\obj\Debug\03.IntersectionOfCircles.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\03.IntersectionOfCircles\obj\Debug\03.IntersectionOfCircles.pdb

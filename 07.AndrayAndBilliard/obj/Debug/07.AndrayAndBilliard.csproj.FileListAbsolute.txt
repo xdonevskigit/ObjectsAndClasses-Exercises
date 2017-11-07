@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\07.AndrayAndBilliard\bin\Debug\07.AndrayAndBilliard.exe.config
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\07.AndrayAndBilliard\bin\Debug\07.AndrayAndBilliard.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\07.AndrayAndBilliard\bin\Debug\07.AndrayAndBilliard.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\07.AndrayAndBilliard\obj\Debug\07.AndrayAndBilliard.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\07.AndrayAndBilliard\obj\Debug\07.AndrayAndBilliard.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\07.AndrayAndBilliard\obj\Debug\07.AndrayAndBilliard.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\07.AndrayAndBilliard\obj\Debug\07.AndrayAndBilliard.pdb

@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\04.AvarageGrades\bin\Debug\04.AvarageGrades.exe.config
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\04.AvarageGrades\bin\Debug\04.AvarageGrades.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\04.AvarageGrades\bin\Debug\04.AvarageGrades.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\04.AvarageGrades\obj\Debug\04.AvarageGrades.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\04.AvarageGrades\obj\Debug\04.AvarageGrades.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\04.AvarageGrades\obj\Debug\04.AvarageGrades.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\04.AvarageGrades\obj\Debug\04.AvarageGrades.csprojResolveAssemblyReference.cache

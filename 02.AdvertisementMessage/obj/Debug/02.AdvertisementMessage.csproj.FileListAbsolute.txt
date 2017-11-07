@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.exe.config
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.pdb

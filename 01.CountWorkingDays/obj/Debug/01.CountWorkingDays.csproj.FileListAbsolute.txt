@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\01.CountWorkingDays\bin\Debug\01.CountWorkingDays.exe.config
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\01.CountWorkingDays\bin\Debug\01.CountWorkingDays.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\01.CountWorkingDays\bin\Debug\01.CountWorkingDays.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.pdb

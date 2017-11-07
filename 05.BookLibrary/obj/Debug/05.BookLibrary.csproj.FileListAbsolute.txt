@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\05.BookLibrary\bin\Debug\05.BookLibrary.exe.config
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\05.BookLibrary\bin\Debug\05.BookLibrary.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\05.BookLibrary\bin\Debug\05.BookLibrary.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\05.BookLibrary\obj\Debug\05.BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\05.BookLibrary\obj\Debug\05.BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\05.BookLibrary\obj\Debug\05.BookLibrary.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\05.BookLibrary\obj\Debug\05.BookLibrary.pdb

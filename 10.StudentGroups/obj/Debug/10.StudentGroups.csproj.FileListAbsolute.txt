@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\10.StudentGroups\obj\Debug\10.StudentGroups.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\10.StudentGroups\bin\Debug\10.StudentGroups.exe.config
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\10.StudentGroups\bin\Debug\10.StudentGroups.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\10.StudentGroups\bin\Debug\10.StudentGroups.pdb
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\10.StudentGroups\obj\Debug\10.StudentGroups.exe
+C:\Users\Icaka\source\repos\ObjectsAndClasses-Exercises\10.StudentGroups\obj\Debug\10.StudentGroups.pdb
